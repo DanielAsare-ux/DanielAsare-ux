@@ -1,6 +1,6 @@
 # Asare Daniel
 
-Web developer. React, TypeScript, Node.js. Building full-stack apps end to end — auth, data, payments-adjacent flows, and the UI on top.
+Web developer. React, TypeScript, Node.js. Building full-stack apps end to end — auth, data, payments-adjacent flows, and the UI on top. Currently learning data analytics (Python, pandas, SQL).
 
 ### [clothing-store](https://github.com/DanielAsare-ux/clothing-store)
 Full-stack e-commerce app — product catalog, cart, checkout, auth. Next.js, TypeScript, Firebase.
