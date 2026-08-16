@@ -5,13 +5,13 @@ Web developer. React, TypeScript, Node.js. Building full-stack apps end to end â
 ### [clothing-store](https://github.com/DanielAsare-ux/clothing-store)
 Full-stack e-commerce app â€” product catalog, cart, checkout, auth. Next.js, TypeScript, Firebase.
 
-### [STRETCH](https://github.com/DanielAsare-ux/STRETCH)
+### [stretch](https://github.com/DanielAsare-ux/stretch)
 Fitness app with live workout sessions and usage-based progress tracking. React, Vite, TensorFlow.js pose detection.
 
 ### [message-generator](https://github.com/DanielAsare-ux/message-generator)
 Small randomized-message utility. Node.js.
 
-### [Excursion](https://github.com/DanielAsare-ux/Excursion)
+### [excursion](https://github.com/DanielAsare-ux/excursion)
 Landing page for a travel-app concept. HTML, CSS.
 
 ---
